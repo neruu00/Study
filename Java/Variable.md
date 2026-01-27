@@ -27,7 +27,7 @@
 
 #### 생성
 
-1. literal 할당
+- literal 할당
 
 문자열 풀(String Pool)에 저장
 
@@ -40,7 +40,7 @@ str1 == str2 // true
 
 #### String 생성자 메서드 사용
 
-2. 힙 (Heap)에 저장
+- 힙 (Heap)에 저장
 
 ```java
 String str3 = new String("Hello");
